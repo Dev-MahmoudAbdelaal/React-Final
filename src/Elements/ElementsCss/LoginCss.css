@@ -1,0 +1,9 @@
+.myLogin{
+    display: block;
+    background-color: #1c1e21;
+    margin: 5% 10%;
+    width: 60%;
+    height: 70vh;
+    align-self: center;
+    justify-content: center;
+}

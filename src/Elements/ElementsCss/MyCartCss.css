@@ -1,0 +1,22 @@
+.main-container{
+    background-color:#1c1e21;
+    width: 100%;
+    padding: 5px;
+    height: 500;
+    color: white;
+    display: flex;
+    padding: 6% 15%;
+}
+.main-container img{
+    width: 70%;
+}
+.h1-title{
+    font-size: 3vw;
+    font-weight: bold;
+}
+.h2-big{
+    font-size:2vw;
+}
+.h2-normal{
+    font-size:1.5vw;
+}

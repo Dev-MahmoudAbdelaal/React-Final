@@ -1,0 +1,41 @@
+.myContainer{
+    height: fit-content;
+    padding: 2%;
+    
+}
+.container-card{
+    padding: 3% 0  ;
+    justify-content: center;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: fit-content;
+    gap: 2%;
+    background-color: #1c1e21;
+    border-radius:1% ;
+}
+.myBanner{
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    width: 85%;
+    height: 25vh;
+    overflow: hidden;
+    background-color: #f4f4f4;
+    align-items: center;
+}
+.myBanner img{
+    height: 100%;
+
+}
+.myBanner button{
+    background-color: black;
+    color: white;
+    margin-left: 5%;
+    font-weight: bold;
+    padding: 1% 2%;
+}
+.title-text{
+    font-size: 30px;
+    font-weight: bolder;
+}
